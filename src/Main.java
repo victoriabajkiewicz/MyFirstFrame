@@ -15,7 +15,7 @@ public class Main {
         //panel.setBackground(Color.PINK)
 
         //3 create components
-        JLabel label = new JLabel("Hello world");
+        JLabel label = new JLabel("Goodbye world");
         JButton button = new JButton("Push button");
         JTextField textField = new JTextField(5);
         JSpinner spinner = new JSpinner();
