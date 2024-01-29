@@ -16,7 +16,7 @@ public class Main {
 
         //3 create components
         JLabel label = new JLabel("Goodbye world");
-        JButton button = new JButton("Push button");
+        JButton button = new JButton("Don't push button");
         JTextField textField = new JTextField(5);
         JSpinner spinner = new JSpinner();
 
